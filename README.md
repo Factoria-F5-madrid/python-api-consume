@@ -169,10 +169,6 @@ Y abre `datos.json`. Debe verse así (los valores pueden variar):
 
 Si aparece el campo `"revisado": true`, el ejercicio está completo.
 
-## ¿Te atascas?
-
-Compara con `solucion_api_rest.py`, que tiene los 4 TODOs ya resueltos.
-
 ## Resumen de conceptos usados
 
 | Concepto | En el código |
